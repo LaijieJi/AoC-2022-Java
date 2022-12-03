@@ -1,0 +1,1 @@
+This file includes all the inputs that I have received for the problems of AoC 2022.
